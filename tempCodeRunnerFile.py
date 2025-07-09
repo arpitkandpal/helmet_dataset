@@ -12,7 +12,7 @@ import hashlib
 
 # === CONFIGURATION ===
 SENDER_EMAIL = "arpitkandpal10b@gmail.com"
-APP_PASSWORD = "gmxpwfcsuttegpte"
+APP_PASSWORD = "gmttegpte"
 RECEIVER_EMAIL = "arpit.kandpal2025@gmail.com"
 EXCEL_FILE = "no_helmet_log.xlsx"
 ALERTS_FOLDER = "alerts"
